@@ -1,4 +1,6 @@
- wordpress 
+(steps to run wordpress.)
+killercoda 
+ 
 
 git clone https://github.com/ShoomanKhatri/wordpress-on-docker.git
 
