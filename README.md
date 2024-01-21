@@ -4,7 +4,7 @@ killercoda
 
 git clone https://github.com/ShoomanKhatri/wordpress-on-docker.git
 
-cd wordpressinstall
+cd wordpress-on-docker/
 
 ls
 
