@@ -15,3 +15,15 @@ cat README.md
 docker-compose up -d
 
 docker ps
+
+
+**** USEFUL COMMANDS OF LINUX ****
+1. cd ..              To move out of a directory.
+2. clear              To clear the terminal.
+3. cat                To concatenate and display the content of files.
+4. docker images      To list the Docker images that are currently stored on your system.
+5. df -h              To display information about disk space usage on a Linux system. df stands for disk free, '-h' flag stands for human readable.
+6. du -h              To check the disk usage of a specific directory. du stands for disk usage.
+7. free -h            To check the available free RAM on a Linux system.
+
+
