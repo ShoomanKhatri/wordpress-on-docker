@@ -27,3 +27,8 @@ docker ps
 7. free -h            =>To check the available free RAM on a Linux system.
 
 
+Websites to run above :
+1. https://killercoda.com/
+2. https://labs.play-with-k8s.com/
+
+
