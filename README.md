@@ -26,6 +26,7 @@ docker ps
 6. du -h              =>To check the disk usage of a specific directory. du stands for disk usage.
 7. free -h            =>To check the available free RAM on a Linux system.
 8. ps                 =>To provide information about the currently running processes on a system. (ps stands for process status).
+9. rmdir /path        =>The rmdir command is specifically designed for removing empty directories.
 
 
 Websites to run Wordpress :
