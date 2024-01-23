@@ -25,6 +25,7 @@ docker ps
 5. df -h              =>To display information about disk space usage on a Linux system. df stands for disk free, '-h' flag stands for human readable.
 6. du -h              =>To check the disk usage of a specific directory. du stands for disk usage.
 7. free -h            =>To check the available free RAM on a Linux system.
+8. ps                 =>To provide information about the currently running processes on a system. (ps stands for process status).
 
 
 Websites to run above :
