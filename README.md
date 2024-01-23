@@ -28,9 +28,13 @@ docker ps
 8. ps                 =>To provide information about the currently running processes on a system. (ps stands for process status).
 
 
-Websites to run above :
+Websites to run Wordpress :
 1. https://killercoda.com/
 2. https://labs.play-with-k8s.com/
 3. https://labs.iximiuz.com/playgrounds/ubuntu
+
+Wordpress Playground Links :
+1.  https://playground.wordpress.net/
+2.  https://playground.wordpress.net/?theme=pendant
 
 
